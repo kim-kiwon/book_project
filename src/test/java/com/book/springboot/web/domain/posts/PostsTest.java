@@ -1,6 +1,7 @@
 package com.book.springboot.web.domain.posts;
 
-import junit.framework.TestCase;
+import com.book.springboot.web.Repository.PostsRepository;
+import com.book.springboot.web.model.Posts;
 import org.assertj.core.api.Assertions;
 import org.junit.After;
 import org.junit.Test;
